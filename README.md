@@ -17,9 +17,15 @@ The program uses a plain-text formatted configuration file in the following form
 Example configuration file
 
 5 20 10 1000
+
 0 dc02 1234
+
 1 dc03 1233
+
 2 dc04 1233
+
 3 dc05 1232
+
 4 dc06 1233
+
 2
